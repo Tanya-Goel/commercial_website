@@ -1,3 +1,5 @@
+To view a live example, **[click here](https://tanya-goel.github.io/commercial_website/)**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
